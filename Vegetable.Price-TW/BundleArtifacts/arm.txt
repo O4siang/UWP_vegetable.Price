@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Homer\documents\visual studio 2015\Projects\Vegetable.Price-TW\Vegetable.Price-TW\bin\ARM\Debug\Vegetable.Price-TW_1.0.1.0_ARM_Debug.appx
+SymbolPackage=C:\Users\Homer\documents\visual studio 2015\Projects\Vegetable.Price-TW\Vegetable.Price-TW\AppPackages\Vegetable.Price-TW_1.0.1.0_Debug_Test\Vegetable.Price-TW_1.0.1.0_ARM_Debug.appxsym
+ResourcePack=C:\Users\Homer\documents\visual studio 2015\Projects\Vegetable.Price-TW\Vegetable.Price-TW\bin\ARM\Debug\Vegetable.Price-TW_1.0.1.0_scale-100.appx
+ResourcePack=C:\Users\Homer\documents\visual studio 2015\Projects\Vegetable.Price-TW\Vegetable.Price-TW\bin\ARM\Debug\Vegetable.Price-TW_1.0.1.0_scale-125.appx
+ResourcePack=C:\Users\Homer\documents\visual studio 2015\Projects\Vegetable.Price-TW\Vegetable.Price-TW\bin\ARM\Debug\Vegetable.Price-TW_1.0.1.0_scale-150.appx
+ResourcePack=C:\Users\Homer\documents\visual studio 2015\Projects\Vegetable.Price-TW\Vegetable.Price-TW\bin\ARM\Debug\Vegetable.Price-TW_1.0.1.0_scale-400.appx

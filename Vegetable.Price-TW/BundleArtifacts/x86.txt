@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Homer\documents\visual studio 2015\Projects\Vegetable.Price-TW\Vegetable.Price-TW\bin\x86\Debug\Vegetable.Price-TW_1.0.1.0_x86_Debug.appx
+SymbolPackage=C:\Users\Homer\documents\visual studio 2015\Projects\Vegetable.Price-TW\Vegetable.Price-TW\AppPackages\Vegetable.Price-TW_1.0.1.0_Debug_Test\Vegetable.Price-TW_1.0.1.0_x86_Debug.appxsym
